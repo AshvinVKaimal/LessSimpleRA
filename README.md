@@ -50,5 +50,3 @@ Post compilation, an executable names ```server``` will be created in the ```src
 - ```INSERT``` command - Inserts a new row into a table
 - ```UPDATE``` command - Updates existing rows in a table
 - ```DELETE``` command - Deletes rows from a table based on a specific condition
-
----
