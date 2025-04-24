@@ -262,7 +262,6 @@ SOURCE <query_name>
 - Special command that takes in a file script from the data directory
 - file name should end in ".ra" indicating it's a query file
 - File to be present in the data folder
-- Used in last phase of project
 
 ---
 
