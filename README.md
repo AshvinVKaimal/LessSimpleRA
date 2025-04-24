@@ -36,13 +36,19 @@ Post compilation, an executable names ```server``` will be created in the ```src
 - ```CROSSTRANSPOSE``` command - Transposes a matrix and then flips it over its diagonal
 - ```CHECKANTISYM``` command - Checks if a matrix is antisymmetric
 
+---
+
 - ```SORT``` command - Sorts a table based on specific columns
 - ```ORDER BY``` command - Makes a new table based on sorted data of an existing table
 - ```GROUP BY``` command - Groups rows based on a specified condition
 - ```JOIN``` command - Joins two tables based on equality of specified columns
+
+---
 
 - Implemented an indexing structure for faster data retrieval
 - ```SEARCH``` command - Searches for rows in a table based on a specific condition
 - ```INSERT``` command - Inserts a new row into a table
 - ```UPDATE``` command - Updates existing rows in a table
 - ```DELETE``` command - Deletes rows from a table based on a specific condition
+
+---
